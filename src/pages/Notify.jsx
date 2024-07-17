@@ -9,26 +9,42 @@ export function Notify() {
     <NotifyPage>
       <h1>Emergency Contacts</h1>
       <CheckboxWrapper>
-        <label htmlFor="emergencyContact">Emergency Contact</label>
-        <input type="checkbox" name="emergencyContact" id="emergencyContact" />
+        <label htmlFor="emergencyContact_1">Emergency Contact</label>
+        <input
+          type="checkbox"
+          name="emergencyContact"
+          id="emergencyContact_1"
+        />
         <span>jonas.kindermann@gmail.com</span>
       </CheckboxWrapper>
 
       <CheckboxWrapper>
-        <label htmlFor="emergencyContact">Emergency Contact</label>
-        <input type="checkbox" name="emergencyContact" id="emergencyContact" />
+        <label htmlFor="emergencyContact_2">Emergency Contact</label>
+        <input
+          type="checkbox"
+          name="emergencyContact"
+          id="emergencyContact_2"
+        />
         <span>clinton_mkd@gmail.com</span>
       </CheckboxWrapper>
 
       <CheckboxWrapper>
-        <label htmlFor="emergencyContact">Emergency Contact</label>
-        <input type="checkbox" name="emergencyContact" id="emergencyContact" />
+        <label htmlFor="emergencyContact_3">Emergency Contact</label>
+        <input
+          type="checkbox"
+          name="emergencyContact"
+          id="emergencyContact_3"
+        />
         <span>joseph234@gmail.com</span>
       </CheckboxWrapper>
 
       <CheckboxWrapper>
-        <label htmlFor="emergencyContact">Emergency Contact</label>
-        <input type="checkbox" name="emergencyContact" id="emergencyContact" />
+        <label htmlFor="emergencyContact_4">Emergency Contact</label>
+        <input
+          type="checkbox"
+          name="emergencyContact"
+          id="emergencyContact_4"
+        />
         <span>cris.slant@gmail.com</span>
       </CheckboxWrapper>
 
