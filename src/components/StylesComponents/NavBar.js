@@ -59,7 +59,7 @@ export const Container = styled.nav`
     display: flex;
     height: 32px;
     width: 79px;
-    background-color: ${({ theme }) => theme.color.gray200};
+    background-color: ${({ theme }) => theme.color.gray300};
     border-radius: 50px;
     z-index: 1;
     transition: 0.25s ease-out;
