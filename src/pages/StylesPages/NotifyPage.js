@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-import checkIcon from "../../assets/icon-check.svg";
+import checkIcon from "../../../public/icon-check.svg";
 
 const fadeIn = keyframes`
   from {
