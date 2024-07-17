@@ -1,5 +1,4 @@
 import styled, { keyframes } from "styled-components";
-import checkIcon from "../../../public/icon-check.svg";
 
 const fadeIn = keyframes`
   from {
@@ -62,7 +61,7 @@ export const CheckboxWrapper = styled.div`
                 width: 0.80rem;
                 height: 0.80rem;
                 
-                background-image: url(${checkIcon});
+                background-image: url('./../../../public/icon-check.svg');
                 background-size: cover;
                 background-repeat: no-repeat;
                 transform: translate(-50%, -50%);
