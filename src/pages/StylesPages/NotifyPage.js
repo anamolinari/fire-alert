@@ -61,7 +61,7 @@ export const CheckboxWrapper = styled.div`
                 width: 0.80rem;
                 height: 0.80rem;
                 
-                background-image: url('./../../../public/icon-check.svg');
+                background-image: url('/public/icon-check.svg');
                 background-size: cover;
                 background-repeat: no-repeat;
                 transform: translate(-50%, -50%);
