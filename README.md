@@ -4,9 +4,7 @@
 A web application designed to monitor and provide alerts about fires.
 
 <div align="center">
-  <img width="706" alt="Captura de Tela 2024-07-17 às 21 38 46" src="https://github.com/user-attachments/assets/d90679e8-67e2-4563-8468-6ac91dbcc943">
-
-
+  <img src="https://i.imgur.com/psUxV8I.gif">
 </div>
 
 ## Project description
