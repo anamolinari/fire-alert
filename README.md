@@ -4,7 +4,7 @@
 A web application designed to monitor and provide alerts about fires.
 
 <div align="center">
-  <img src="https://i.imgur.com/psUxV8I.gif">
+  <img src="https://i.imgur.com/psUxV8I.gif" width="800">
 </div>
 
 ## Project description
