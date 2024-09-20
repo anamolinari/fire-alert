@@ -7,7 +7,7 @@ A web application designed to monitor and provide alerts about fires.
   <img src="https://i.imgur.com/psUxV8I.gif" width="800">
 </div>
 
-## Project description
+## Project Description
 
 <p align="justify">
 With an intuitive and easy-to-navigate interface, this project was meticulously designed in Figma and faithfully implemented in code, ensuring a cohesive and effective user experience.
@@ -32,9 +32,9 @@ Finally, on the <strong>Home</strong> page and in the <strong>Header</strong> co
 
 *This was my first project using animations.
 
-## Tools used
+## Tools Used
 
-- React JS
+- React.js
 - Styled Components
 - CSS Animation
 
