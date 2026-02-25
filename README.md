@@ -1,44 +1,66 @@
-<h1 align="center">FIRE ALERT</h1>
-
+<h1 align="center">Fire Alert</h1>
 <p align="center">
-A web application designed to monitor and provide alerts about fires.
+Web application designed to monitor and provide alerts about fires.
+</p>
 
 <div align="center">
   <img src="https://i.imgur.com/psUxV8I.gif" width="800">
 </div>
 
-## Project Description
+</br>
+<div align="center">
+  <a href="https://fire-alert-six.vercel.app/">Live Demo</a>
+</div>
+
+## About
 
 <p align="justify">
-With an intuitive and easy-to-navigate interface, this project was meticulously designed in Figma and faithfully implemented in code, ensuring a cohesive and effective user experience.
+Pixel-perfect implementation of a Figma design, focused on delivering a smooth and engaging user experience through CSS animations, reusable components, and fluid navigation.
+</p>
+
+---
 
 ## Features
 
-The project consists of four main screens:
-- Home
-- Report
-- Notify
-- Actions
+- Sliding navbar animation with React Router DOM — each active link triggers a smooth sliding indicator
+- Flame effect on the logo built with CSS keyframes
+- Dynamic layout that expands and collapses per page — each route receives its own width and height props
+- Expandable and collapsible sections for dynamic content organization
+- Reusable Header, NavBar, and Footer components across all pages
+- Smooth hover effects and active states throughout the interface
+- Mobile-first, fully responsive layout
 
-These screens are interconnected via routes and have the ability to expand and collapse sections and information, offering a dynamic and organized view.
+---
 
-The <strong>Report</strong>, <strong>Notify</strong>, and <strong>Actions</strong> pages include a Header, a <strong>NavBar</strong>, and a <strong>Footer</strong>, all developed as reusable components. This approach ensures consistency and cohesion throughout the application.
-
-Additionally, the content of the pages is enhanced with smooth transitions and fluid animations, including hover effects and active states, providing a superior navigation and interaction experience for the user.
-
-The <strong>NavBar</strong>, implemented with <strong>"react-router-dom"</strong>, features a sliding animation whenever a link is activated, ensuring a pleasant and intuitive interaction.
-
-Finally, on the <strong>Home</strong> page and in the <strong>Header</strong> component, you can see a flame effect on the logo. This effect was created using keyframes to add an attractive and realistic visual representation.
-
-*This was my first project using animations.
-
-## Tools Used
+## Tech Stack
 
 - React.js
+- React Router DOM
 - Styled Components
-- CSS Animation
+- CSS Animations & Keyframes
+
+---
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/anamolinari/fire-alert.git
+
+# Navigate to the project folder
+cd fire-alert
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
 
 ## Developer
-[Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
 
-
+Developed by [Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
