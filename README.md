@@ -4,7 +4,9 @@ Web application designed to monitor and provide alerts about fires.
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/psUxV8I.gif" width="800">
+    <a href="https://fire-alert-six.vercel.app/">
+      <img src="https://i.imgur.com/psUxV8I.gif" width="800">
+    </a>
 </div>
 
 </br>
